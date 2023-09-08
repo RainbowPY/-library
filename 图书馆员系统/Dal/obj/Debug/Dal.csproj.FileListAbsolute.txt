@@ -1,0 +1,9 @@
+D:\C#\05.ADO.NET & LINQ\登录和代码注入\图书馆员系统\Dal\bin\Debug\Dal.dll
+D:\C#\05.ADO.NET & LINQ\登录和代码注入\图书馆员系统\Dal\bin\Debug\Dal.pdb
+D:\C#\05.ADO.NET & LINQ\登录和代码注入\图书馆员系统\Dal\bin\Debug\Model.dll
+D:\C#\05.ADO.NET & LINQ\登录和代码注入\图书馆员系统\Dal\bin\Debug\Model.pdb
+D:\C#\05.ADO.NET & LINQ\登录和代码注入\图书馆员系统\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+D:\C#\05.ADO.NET & LINQ\登录和代码注入\图书馆员系统\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\C#\05.ADO.NET & LINQ\登录和代码注入\图书馆员系统\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\C#\05.ADO.NET & LINQ\登录和代码注入\图书馆员系统\Dal\obj\Debug\Dal.dll
+D:\C#\05.ADO.NET & LINQ\登录和代码注入\图书馆员系统\Dal\obj\Debug\Dal.pdb
